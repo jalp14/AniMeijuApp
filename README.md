@@ -8,7 +8,7 @@ An all in one app for anime built entierely in SwiftUI (currenlty in beta testin
 
 * Search for anime and manga (English, Japanese & Romaji)
 
-* Get all the details for any anime or manga (episodes, characters, episodes etc...) displayed with a gorgeous dynamic view that adapts based on the anime  
+* Get all the details for any anime or manga (episodes, characters, stats etc...) displayed with a gorgeous dynamic view that adapts based on the anime  
 
 * View weekly schedule with the airing time 
 
