@@ -14,7 +14,13 @@ An all in one app for anime built entierely in SwiftUI (currenlty in beta testin
 
 * Get the latest news about anime and manga 
 
+* Get notification when a new episode airs
+
+* Track the progress of currently airing anime
+
 * Identify any anime with a picture or screenshot
+
+* Custom Icons
 
 * Support for Dark Mode
 
@@ -26,11 +32,6 @@ An all in one app for anime built entierely in SwiftUI (currenlty in beta testin
 
 # Future Roadmap #
 
-* Favourite anime
-
-* Get notification for when a new episode airs 
-
-* Custom Icons
 
 * Better iPad support 
 
