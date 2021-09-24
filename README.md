@@ -1,5 +1,5 @@
 # AniMeijuApp
-An all in one app for anime built entierely in SwiftUI (currenlty in beta testing!)
+An all in one app for anime built entirely in SwiftUI (currenlty in beta testing!)
 
 ![Banner](https://i.imgur.com/JgYDIrR.png)
 
