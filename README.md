@@ -55,5 +55,5 @@ An all in one app for anime built entirely in SwiftUI (currenlty in beta testing
 
 # Misc #
 
-If you are intered in joining the development team please join the Discord server and contact me
+If you are interested in joining the development team please join the Discord server and contact me
 
